@@ -1,4 +1,4 @@
-# Time-Series-Processing-Application-to-Solve-Contemporary-Problems-
+# Time Series Processing Application to Solve Contemporary Problems
 
 Purpose and scope
 The objective is to apply time series tools to a dataset on vehicular flow through the AUSA toll plazas in Buenos Aires.
