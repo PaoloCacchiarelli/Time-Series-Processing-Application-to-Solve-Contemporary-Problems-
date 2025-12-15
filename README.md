@@ -1,10 +1,8 @@
 # Time Series Processing Application to Solve Contemporary Problems
 
-Purpose and scope
-The objective is to apply time series tools to a dataset on vehicular flow through the AUSA toll plazas in Buenos Aires.
+Purpose and scope: The objective is to apply time series tools to a dataset on vehicular flow through the AUSA toll plazas in Buenos Aires.
 
-Time series
-Implementation of a model to predict vehicular flow on a highway in Buenos Aires, Argentina.
+Time series: Implementation of a model to predict vehicular flow on a highway in Buenos Aires, Argentina.
 
 The dataset contains data from 2017, 2018 and 2019.
 
